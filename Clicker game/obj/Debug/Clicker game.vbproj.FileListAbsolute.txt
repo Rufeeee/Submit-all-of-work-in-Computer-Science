@@ -1,0 +1,14 @@
+\\stg-highschool.sosd.7oaks.org\users\azazel.torres\visual studio 2012\Projects\Clicker game\Clicker game\bin\Debug\Clicker game.exe.config
+\\stg-highschool.sosd.7oaks.org\users\azazel.torres\visual studio 2012\Projects\Clicker game\Clicker game\bin\Debug\Clicker game.exe
+\\stg-highschool.sosd.7oaks.org\users\azazel.torres\visual studio 2012\Projects\Clicker game\Clicker game\bin\Debug\Clicker game.pdb
+\\stg-highschool.sosd.7oaks.org\users\azazel.torres\visual studio 2012\Projects\Clicker game\Clicker game\bin\Debug\Clicker game.xml
+\\stg-highschool.sosd.7oaks.org\users\azazel.torres\visual studio 2012\Projects\Clicker game\Clicker game\obj\Debug\Clicker_game.form1.resources
+\\stg-highschool.sosd.7oaks.org\users\azazel.torres\visual studio 2012\Projects\Clicker game\Clicker game\obj\Debug\Clicker_game.Resources.resources
+\\stg-highschool.sosd.7oaks.org\users\azazel.torres\visual studio 2012\Projects\Clicker game\Clicker game\obj\Debug\Clicker game.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\users\azazel.torres\visual studio 2012\Projects\Clicker game\Clicker game\obj\Debug\Clicker game.exe
+\\stg-highschool.sosd.7oaks.org\users\azazel.torres\visual studio 2012\Projects\Clicker game\Clicker game\obj\Debug\Clicker game.xml
+\\stg-highschool.sosd.7oaks.org\users\azazel.torres\visual studio 2012\Projects\Clicker game\Clicker game\obj\Debug\Clicker game.pdb
+Z:\Visual Studio 2012\Projects\Clicker game\Clicker game\bin\Debug\Clicker game.exe.config
+Z:\Visual Studio 2012\Projects\Clicker game\Clicker game\obj\Debug\Clicker game.exe
+Z:\Visual Studio 2012\Projects\Clicker game\Clicker game\obj\Debug\Clicker game.xml
+Z:\Visual Studio 2012\Projects\Clicker game\Clicker game\obj\Debug\Clicker game.pdb
